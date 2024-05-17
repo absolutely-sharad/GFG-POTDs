@@ -1,6 +1,6 @@
 // 17th May 2024
 // Difficulty - Easy
-// Topics - Sorting & Binary Search Algorithms
+// Topics - Sorting, Binary Search & Algorithms
 // Asked in the companies like - Amazon, Visa
 
 //Brute Force code
