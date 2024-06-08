@@ -1,0 +1,15 @@
+// 8th June 2024
+// Difficulty - Easy
+// Topic Tags - Arrays, Searching, Data Structures & Algorithms
+// Asked in the companies like - Zoho & Amazon
+
+class Solution {
+    public int findExtra(int n, int arr1[], int arr2[]) {
+         for(int i=0;i<n-1;i++){
+            if(arr1[i]!=arr2[i]){
+                return i;
+            }
+        }
+        return n-1;
+    }
+}
