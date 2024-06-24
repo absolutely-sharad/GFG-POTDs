@@ -1,6 +1,6 @@
 // 14th June 2024
 // Difficulty - Easy
-// Topic Tags - Mathematical & Algorithms
+// Topic Tags - Mathematical & Algorithmss
 // Asked in the companies like - VMWare & Oracle
 
 class Solution {
